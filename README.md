@@ -42,5 +42,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [GLG](https://www.glg-dev.fr))
+- Website - [GLG](https://www.glg-dev.fr)
 - Frontend Mentor - [@glg-dev](https://www.frontendmentor.io/profile/glg-dev)
